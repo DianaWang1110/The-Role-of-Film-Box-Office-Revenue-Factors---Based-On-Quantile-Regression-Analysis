@@ -1,1 +1,3 @@
 # The-Role-of-Film-Box-Office-Revenue-Factors---Based-On-Quantile-Regression-Analysis
+
+In this paper I apply the Quantile Regression model that suits for the different contribution of the attributes surrounding different levels of film revenues. The regression coefficients from this model reflects the correlation between the film revenue and the various attributes (production budget, popularity, runtime, vote average and vote count). The empirical analysis result shows that QR coefficients vary across different intervals of film revenue. This implies that the size of the effect for the influencing factors differ between profitability quantiles of films.
